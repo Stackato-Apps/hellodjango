@@ -1,0 +1,9 @@
+name: hellodjango
+
+framework:
+  type: buildpack
+
+services:
+  postgresql: hellodjango-db
+
+
