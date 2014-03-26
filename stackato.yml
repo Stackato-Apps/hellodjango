@@ -1,7 +1,4 @@
 name: hello-django
 
-framework:
-  type: buildpack
-
 services:
   hello-django-db: postgresql
