@@ -1,4 +1,4 @@
-name: hello-django
+name: hellodjango
 
 services:
-  hello-django-db: postgresql
+  ${name}-db: postgresql
