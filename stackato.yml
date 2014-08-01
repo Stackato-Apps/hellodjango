@@ -1,4 +1,0 @@
-name: hellodjango
-
-services:
-  ${name}-db: postgresql

@@ -1,0 +1,5 @@
+applications:
+- name: hellodjango
+  services:
+    ${name}-db:
+      type: postgresql
